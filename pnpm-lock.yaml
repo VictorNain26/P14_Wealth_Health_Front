@@ -12,7 +12,6 @@ specifiers:
   '@victornain26/react-modal-component': ^1.0.3
   '@vitejs/plugin-react': ^3.0.0
   material-react-table: ^1.5.12
-  prop-types: ^15.8.1
   react: ^18.2.0
   react-datepicker: ^4.8.0
   react-dom: ^18.2.0
@@ -33,7 +32,6 @@ dependencies:
   '@mui/material': 5.11.7_rqh7qj4464ntrqrt6banhaqg4q
   '@victornain26/react-modal-component': 1.0.3_biqbaboplfbrettd7655fr4n2y
   material-react-table: 1.6.3_dubgkpbj6icpwp7vuzn6m7eleq
-  prop-types: 15.8.1
   react: 18.2.0
   react-datepicker: 4.10.0_biqbaboplfbrettd7655fr4n2y
   react-dom: 18.2.0_react@18.2.0
