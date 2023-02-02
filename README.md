@@ -6,6 +6,10 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 In the project directory, you can run:
 
+Install pnpm
+
+### npm install -g pnpm
+
 ### `pnpm dev`
 
 Runs the app in the development mode.\
