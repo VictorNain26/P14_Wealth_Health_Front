@@ -4,11 +4,11 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## Available Scripts
 
+### Install pnpm :
+
+### `npm install -g pnpm`
+
 In the project directory, you can run:
-
-Install pnpm
-
-### npm install -g pnpm
 
 ### `pnpm dev`
 
