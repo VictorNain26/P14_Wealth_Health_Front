@@ -4,7 +4,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## Available Scripts
 
-## Install pnpn
+Install pnpn
 
 ### `npm install -g pnpm`
 
