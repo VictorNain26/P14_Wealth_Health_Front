@@ -9,7 +9,7 @@ specifiers:
   '@mui/material': ^5.11.7
   '@types/react': ^18.0.26
   '@types/react-dom': ^18.0.9
-  '@victornain26/react-modal-component': ^1.0.3
+  '@victornain26/react-modal-component': ^1.0.7
   '@vitejs/plugin-react': ^3.0.0
   material-react-table: ^1.5.12
   react: ^18.2.0
@@ -30,7 +30,7 @@ dependencies:
   '@fontsource/roboto': 4.5.8
   '@mui/icons-material': 5.11.0_m3y2ykptchyoygtoroit6l3ehq
   '@mui/material': 5.11.7_rqh7qj4464ntrqrt6banhaqg4q
-  '@victornain26/react-modal-component': 1.0.3_biqbaboplfbrettd7655fr4n2y
+  '@victornain26/react-modal-component': 1.0.7_biqbaboplfbrettd7655fr4n2y
   material-react-table: 1.6.4_dubgkpbj6icpwp7vuzn6m7eleq
   react: 18.2.0
   react-datepicker: 4.10.0_biqbaboplfbrettd7655fr4n2y
@@ -932,8 +932,8 @@ packages:
   /@types/scheduler/0.16.2:
     resolution: {integrity: sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==}
 
-  /@victornain26/react-modal-component/1.0.3_biqbaboplfbrettd7655fr4n2y:
-    resolution: {integrity: sha512-9CudAV0AWFUiYagRNIExAYjazfoI59ibWM47mgu2ssFHP+9kkSFsyOhp+heLwntiSCRELBHS7i6N3wnGu1SF2A==, tarball: download/@victornain26/react-modal-component/1.0.3/b8f5a2e295a2342152cc4f759cc22fc9ce4bf184}
+  /@victornain26/react-modal-component/1.0.7_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-Lh4b8dfhc6LSg0nOikUd9cKLmiagNqkIXByetGm1o5KdLQ/RdMBcEmO8HTOcdauq88o6+plg29kFQA6PVBx0WQ==, tarball: download/@victornain26/react-modal-component/1.0.7/9b597756cb84d6085425ce8cef0dbce6360adede}
     dependencies:
       postcss: 8.4.21
       react-transition-group: 4.4.5_biqbaboplfbrettd7655fr4n2y
